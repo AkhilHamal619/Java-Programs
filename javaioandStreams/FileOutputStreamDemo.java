@@ -1,4 +1,4 @@
-package javaStream;
+package javaioandStreams;
 import java.io.FileOutputStream;
 import java.io.IOException;
 

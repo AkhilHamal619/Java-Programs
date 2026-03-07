@@ -1,4 +1,5 @@
-package javaStream;
+//Character Stream.
+package javaioandStreams;
 import java.io.FileWriter;
 import java.io.IOException;
 

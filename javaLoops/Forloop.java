@@ -1,5 +1,6 @@
-//javaLoops;
-public class Forloops {
+package javaLoops;
+public class Forloop 
+{
 	public static void main(String[]args)
 	{
 		int i=1;
