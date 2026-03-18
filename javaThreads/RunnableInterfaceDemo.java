@@ -1,4 +1,4 @@
-package JavaThreads;
+package javaThreads;
 
 class RunnableInterfaceExample implements Runnable
 {
