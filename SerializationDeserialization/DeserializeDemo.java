@@ -1,4 +1,4 @@
-//Serializable Program
+//Deserializable Program
 package SerializationDeserialization;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
