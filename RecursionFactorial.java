@@ -10,7 +10,7 @@ public class RecursionFactorial
 		n = input.nextInt();
 		
 		f = fact(n);
-		System.out.println("The factorial is:"+fact(n));
+		System.out.println("The factorial is:"+f);
 	}
 	static int fact(int n)
 	{
